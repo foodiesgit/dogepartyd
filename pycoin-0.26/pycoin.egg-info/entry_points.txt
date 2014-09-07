@@ -1,0 +1,5 @@
+[console_scripts]
+spend = pycoin.scripts.spend:main
+bu = pycoin.scripts.bitcoin_utils:main
+genwallet = pycoin.scripts.genwallet:main
+
